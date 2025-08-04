@@ -1,13 +1,27 @@
 # 01 Beginner - 20 Conceptual Questions
 
+<details>
+<summary>📌 Instructions</summary>
+
+- Use H4 (####) for questions 
+- Use **Answer:** followed by <br> for line breaks  
+- Use triple backticks with language name (e.g. ```python) for code blocks  
+
+</details>
+
 #### 1. What is a variable in Python and how is it used?
-**Answer :** dsfdf<br>
-sdfsdf<br>
-sdf<br>
-dsf<br>
-sdf<br>
-sdf<br>
+**Answer :** A variable in Python is a named reference to a value stored in memory. It allows you to store, retrieve, and manipulate data.  <br>
+
+```python
+name = "Alice"
+age = 30
+is_active = True
+```
+
 #### 2. What are the basic data types in Python?
+**Answer :**
+```
+```
 #### 3. Explain the difference between a list and a tuple.
 #### 4. What is a dictionary and how does it work?
 #### 5. How do you write and call a function in Python?

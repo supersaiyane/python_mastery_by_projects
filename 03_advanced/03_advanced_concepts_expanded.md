@@ -1,5 +1,14 @@
 # 03 Advanced - 20 Conceptual Questions
 
+<details>
+<summary>📌 Instructions</summary>
+
+- Use H4 (####) for questions 
+- Use **Answer:** followed by <br> for line breaks  
+- Use triple backticks with language name (e.g. ```python) for code blocks  
+
+</details>
+
 1. What is a generator and how is it different from a list?
 2. How does a generator work with `yield`?
 3. What is an iterator in Python?

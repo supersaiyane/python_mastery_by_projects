@@ -1,5 +1,14 @@
 # 04 Expert - 20 Conceptual Questions
 
+<details>
+<summary>📌 Instructions</summary>
+
+- Use H4 (####) for questions 
+- Use **Answer:** followed by <br> for line breaks  
+- Use triple backticks with language name (e.g. ```python) for code blocks  
+
+</details>
+
 1. What is the Global Interpreter Lock (GIL)?
 2. What are metaclasses in Python?
 3. What are coroutines and how are they used?

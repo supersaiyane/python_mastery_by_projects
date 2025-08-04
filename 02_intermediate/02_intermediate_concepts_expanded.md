@@ -1,5 +1,14 @@
 # 02 Intermediate - 20 Conceptual Questions
 
+<details>
+<summary>📌 Instructions</summary>
+
+- Use H4 (####) for questions 
+- Use **Answer:** followed by <br> for line breaks  
+- Use triple backticks with language name (e.g. ```python) for code blocks  
+
+</details>
+
 1. What is object-oriented programming?
 2. How do you define a class and an object in Python?
 3. What is the purpose of `__init__` method?

@@ -1,5 +1,14 @@
 # Data Science - 20 Conceptual Questions
 
+<details>
+<summary>📌 Instructions</summary>
+
+- Use H4 (####) for questions 
+- Use **Answer:** followed by <br> for line breaks  
+- Use triple backticks with language name (e.g. ```python) for code blocks  
+
+</details>
+
 1. What is the difference between supervised and unsupervised learning?
 2. Explain the bias-variance tradeoff.
 3. What is regularization? Why is it useful?
